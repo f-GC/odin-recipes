@@ -1,0 +1,17 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    background-color: black;
+    color: yellow;
+    text-align: center;
+    font-weight: 200;
+    font-size: 40px;
+}
+
+ul {
+    color: pink;
+    background-color: grey;
+    font-size: 18px;
+}
