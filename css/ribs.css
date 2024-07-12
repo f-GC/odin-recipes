@@ -27,11 +27,13 @@ h2 {
 }
 
 p {
-    margin: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 
 ul,
 ol {
-    margin: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
     color: rgb(94, 0, 39);
 }
