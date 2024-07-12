@@ -1,0 +1,35 @@
+* {
+    background-color: rgba(100, 3, 3, 1);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+h1 {
+    text-align: center;
+    color: orange;
+    font-size: 42;
+}
+
+h2 {
+    text-align: center;
+    color: yellow;
+}
+
+p {
+    margin-left: 5%;
+    margin-right: 5%;
+    color: whitesmoke;
+}
+
+ul,
+ol {
+    margin-left: 5%;
+    margin-right: 5%;
+    color: whitesmoke;
+}
